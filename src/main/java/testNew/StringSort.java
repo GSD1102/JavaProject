@@ -25,7 +25,8 @@ public class StringSort {
   System.out.println(s7);
   System.out.println(s1.equals(s3));
   System.out.println(s1.compareTo(s4));
-  
+  System.out.println(s1.compareTo(s4));
+  System.out.println(s1.compareTo(s4));
 	StringBuffer sb= new StringBuffer("GhadageSuraj");
 	System.out.println(sb.replace(1,3,"patil"));
 	
